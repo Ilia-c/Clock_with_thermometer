@@ -1,0 +1,103 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATtiny13A"</DEVICE>
+ <WORKING_DIR>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.8.332\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.8.332\avrasm\inc\tn13Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\Debug\Clock_with_a_thermometer.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Clock_with_a_thermometer.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Clock_with_a_thermometer.map</FILE>
+  <FILE>Clock_with_a_thermometer.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>23</LINE></reset>
+  <start><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>114</LINE></start>
+  <Button><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>60</LINE></Button>
+  <Time_current><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>46</LINE></Time_current>
+  <exit_Time_current><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>53</LINE></exit_Time_current>
+  <Delay_01s><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>585</LINE></Delay_01s>
+  <wait><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>76</LINE></wait>
+  <Second><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>97</LINE></Second>
+  <Time_correct><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>462</LINE></Time_correct>
+  <Number_send><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>258</LINE></Number_send>
+  <RAM_Flush><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>116</LINE></RAM_Flush>
+  <Flush><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>120</LINE></Flush>
+  <Time_output><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>209</LINE></Time_output>
+  <loop><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>178</LINE></loop>
+  <wait_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>182</LINE></wait_1>
+  <cycle_w0><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>183</LINE></cycle_w0>
+  <cycle_w1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>189</LINE></cycle_w1>
+  <exsit_wait><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>203</LINE></exsit_wait>
+  <cycle_w2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>194</LINE></cycle_w2>
+  <Temp_output><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>219</LINE></Temp_output>
+  <ADC_complete><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>478</LINE></ADC_complete>
+  <raz_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>273</LINE></raz_1>
+  <repeat_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>267</LINE></repeat_1>
+  <repeat_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>277</LINE></repeat_2>
+  <raz_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>283</LINE></raz_2>
+  <Time_send_start><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>287</LINE></Time_send_start>
+  <T0><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>305</LINE></T0>
+  <T1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>309</LINE></T1>
+  <T2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>315</LINE></T2>
+  <T3><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>328</LINE></T3>
+  <Select_num><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>375</LINE></Select_num>
+  <Miss><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>449</LINE></Miss>
+  <rav_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>322</LINE></rav_1>
+  <c_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>326</LINE></c_1>
+  <rav_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>336</LINE></rav_2>
+  <c_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>340</LINE></c_2>
+  <Load_current><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>344</LINE></Load_current>
+  <Continue><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>346</LINE></Continue>
+  <Next><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>351</LINE></Next>
+  <Exit><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>368</LINE></Exit>
+  <r22_r24><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>361</LINE></r22_r24>
+  <Send><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>618</LINE></Send>
+  <Number_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>411</LINE></Number_1>
+  <Number_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>414</LINE></Number_2>
+  <Number_3><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>417</LINE></Number_3>
+  <Number_4><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>420</LINE></Number_4>
+  <Number_5><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>423</LINE></Number_5>
+  <Number_6><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>426</LINE></Number_6>
+  <Number_7><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>429</LINE></Number_7>
+  <Number_8><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>432</LINE></Number_8>
+  <Number_9><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>435</LINE></Number_9>
+  <Minus><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>441</LINE></Minus>
+  <Empty><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>444</LINE></Empty>
+  <Number_0><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>438</LINE></Number_0>
+  <After_set_minute><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>467</LINE></After_set_minute>
+  <reset_hour><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>471</LINE></reset_hour>
+  <After_set_hour><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>473</LINE></After_set_hour>
+  <No_zero><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>485</LINE></No_zero>
+  <Dividing><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>489</LINE></Dividing>
+  <Next_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>495</LINE></Next_1>
+  <Dividing_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>506</LINE></Dividing_2>
+  <Next_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>512</LINE></Next_2>
+  <Big><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>517</LINE></Big>
+  <continue_after_big><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>519</LINE></continue_after_big>
+  <Dividing_3><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>544</LINE></Dividing_3>
+  <Next_3><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>550</LINE></Next_3>
+  <Dividing_4><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>556</LINE></Dividing_4>
+  <Next_4><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>562</LINE></Next_4>
+  <plus><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>575</LINE></plus>
+  <ADC_complete_exit><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>582</LINE></ADC_complete_exit>
+  <cicle_0><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>586</LINE></cicle_0>
+  <cicle_1><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>592</LINE></cicle_1>
+  <exit_delay><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>609</LINE></exit_delay>
+  <cicle_2><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>597</LINE></cicle_2>
+  <action_b><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>629</LINE></action_b>
+  <action_a><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>622</LINE></action_a>
+  <next_action><FILE>E:\Programming\Projects\Ассемблер микроконтроллеры\Моя курсовая 2020\Clock_with_a_thermometer\main.asm</FILE><LINE>634</LINE></next_action>
+ </LABELS>
+</ASSEMBLER_INFO>
